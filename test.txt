@@ -1,7 +1,5 @@
 make textfile
 
-<<<<<<< HEAD
-!hotfix! *2024/11/02
-=======
 !!!! !hotfix! *2024/11/02 !!!!
->>>>>>> origin/main
+
+add new func
